@@ -4,41 +4,41 @@
         "category": "A",
         "productNo": 1,
         "subHeading": 1,
-        "color": "rgba(39, 101, 209,0.9)"
+        "color": "rgba(39, 101, 209,0.5)"
     },
     {
         "_id": 2,
         "category": "A",
         "productNo": 1,
         "subHeading": 2,
-        "color": "rgba( 238, 166, 80 ,0.9)"
+        "color": "rgba( 238, 166, 80 ,0.5)"
     },
     {
         "_id": 3,
         "category": "A",
         "productNo": 1,
         "subHeading": 3,
-        "color": "rgba(  39, 218, 137 ,0.9)"
+        "color": "rgba(  39, 218, 137 ,0.5)"
     },
     {
         "_id": 4,
         "category": "B",
         "productNo": 2,
         "subHeading": 1,
-        "color": "rgba(85, 191, 214 ,0.9)"
+        "color": "rgba(85, 191, 214 ,0.5)"
     },
     {
         "_id": 5,
         "category": "B",
         "productNo": 2,
         "subHeading": 2,
-        "color": "rgba(245, 99, 15,0.8)"
+        "color": "rgba(245, 99, 15,0.5)"
     },
     {
         "_id": 6,
         "category": "B",
         "productNo": 2,
         "subHeading": 3,
-        "color": "rgba( 15, 43, 245 ,0.8)"
+        "color": "rgba( 15, 43, 245 ,0.5)"
     }
 ]
