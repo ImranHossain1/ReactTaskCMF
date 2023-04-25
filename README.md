@@ -4,7 +4,7 @@ The project has been deployed on netlify, [click here](https://cmftask.netlify.a
 
 # Install the packages
 
-To install the packages, you have to open your terminal to run:
+To install the packages, you have to run this command on your terminal:
 
 ### `npm install`
 
