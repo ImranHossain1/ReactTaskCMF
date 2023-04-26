@@ -1,6 +1,6 @@
 # React Task provided by CMF
 
-The project has been deployed on netlify, [click here](https://cmftask.netlify.app/) to see the live demo.
+The project has been deployed on netlify, [click here](https://64486b1f70ff0b4fe6ceacfe--cmftask.netlify.app/) to see the live demo.
 
 # Install the packages
 
