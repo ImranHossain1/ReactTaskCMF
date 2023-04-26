@@ -44,7 +44,7 @@ const Home = () => {
           <div
             style={{
               position: "absolute",
-              bottom: -40,
+              bottom: -80,
               width: "100%",
               display: "flex",
               justifyContent: "center",
